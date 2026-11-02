@@ -1,0 +1,19 @@
+{
+  "name": "escrevendo-classes-jogo",
+  "version": "1.0.0",
+  "description": "Escrevendo as classes de um Jogo - Desafio de Logica de Programacao DIO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "dio",
+    "poo",
+    "classes",
+    "logica-de-programacao",
+    "javascript"
+  ],
+  "author": "MuriloBGodoy",
+  "license": "MIT"
+}
